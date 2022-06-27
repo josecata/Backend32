@@ -1,0 +1,180 @@
+{
+  message: 'Workers availables: 6',
+  level: 'warn',
+  timestamp: '2022-06-27T01:11:05.848Z'
+}
+{
+  message: 'Master Worker 44489 initialized',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:05.850Z'
+}
+{
+  message: 'Worker 44489 connected to Mongo',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:07.541Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 44535',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:14.628Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:14.634Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 44549',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:14.661Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:14.668Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 44562',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:14.811Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:14.816Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 44529',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:14.946Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:14.952Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 44556',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:15.060Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:15.065Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 44542',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:15.069Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:15.076Z'
+}
+{
+  message: 'Worker 44535 connected to Mongo',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:16.200Z'
+}
+{
+  message: 'Worker 44549 connected to Mongo',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:16.203Z'
+}
+{
+  message: 'Worker 44562 connected to Mongo',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:16.430Z'
+}
+{
+  message: 'Worker 44529 connected to Mongo',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:16.534Z'
+}
+{
+  message: 'Worker 44542 connected to Mongo',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:16.636Z'
+}
+{
+  message: 'Worker 44556 connected to Mongo',
+  level: 'info',
+  timestamp: '2022-06-27T01:11:16.672Z'
+}
+{
+  message: 'Workers availables: 6',
+  level: 'warn',
+  timestamp: '2022-06-27T01:18:37.180Z'
+}
+{
+  message: 'Master Worker 45140 initialized',
+  level: 'error',
+  timestamp: '2022-06-27T01:18:37.182Z'
+}
+{
+  message: 'Worker 45140 connected to Mongo',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:38.929Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 45198',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.624Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.633Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 45178',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.642Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.681Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 45205',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.729Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.741Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 45191',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.768Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.775Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 45212',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.782Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.787Z'
+}
+{
+  message: 'Process Cluster: on port 8080 - worker: 45184',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.959Z'
+}
+{
+  message: 'Listening from 8080 - http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-27T01:18:45.964Z'
+}
